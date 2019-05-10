@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MycatApplication",
+            "request": "launch",
+            "mainClass": "cn.wolfcode.mycat.MycatApplication",
+            "projectName": "mycat"
+        }
+    ]
+}
